@@ -1,1 +1,1 @@
-# CIND-820-
+# Ryerson CIND-820  Bank Direct Marketing Analysis
